@@ -1,0 +1,8 @@
+Rail traffic simulator based on max-plus algebra
+
+This paper describes the implemented rail traffic simulator based on max-plus algebra. The simulator allows defining the parameters of the system elements, such as the topology of the rail system, 
+the duration of the journey, etc. Through the graphical user interface, users can enter the parameters of the system elements and display the operation of the simulated system in accelerated time. 
+Based on the input data, the simulator determines the max-plus model of the system and calculates the system characteristics based on this model. As part of the work, several related works were mentioned, 
+the theoretical background, formulation and implementation of the simulator were explained, and the correctness of the simulator's operation was confirmed and shown in three different examples.
+
+Keywords: simulator, rail traffic, rail traffic simulation, max-plus algebra, max-plus system model, Petri net, rail traffic analysis
