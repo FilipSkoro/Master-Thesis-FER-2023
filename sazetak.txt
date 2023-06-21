@@ -1,0 +1,9 @@
+Simulator tračničkog prometa zasnovan na max-plus algebri
+
+Ovaj rad opisuje implementirani simulator tračničkog prometa koji je zasnovan na max-plus algebri. Simulator omogućava definiranje parametara elemenata sustava, 
+kao što su topologija tračničkog sustava, trajanje putovanja itd. Pomoću grafičkog korisničkog sučelja, korisnici mogu unositi parametre elemenata sustava te prikazati 
+rad simuliranog sustava u ubrzanom vremenu. Korištenjem unesenih podataka, simulator određuje max-plus model sustava i na osnovu tog modela proračunava svojstva sustava. 
+U sklopu rada spomenuto je i nekoliko srodnih radova, objašnjena je teorijska pozadina, formulacija i implementacija simulatora te je ispravnost rada simulatora potvrđena 
+i prikazana na tri različita primjera.
+
+ključne riječi: simulator, tračnički promet, simulacija tračničkog prometa, max-plus algebra, max-plus model sustava, Petrijeva mreža, analiza tračničkog prometa
