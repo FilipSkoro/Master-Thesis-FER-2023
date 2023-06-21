@@ -1,4 +1,4 @@
-*****  READ ME  *****
+# READ ME
 
 This version of the simulator can only be run using a specific tool that serves as a development environment for the program 
 and is not intended to be used as such; for the reason that in the code it is necessary to set certain folder paths and it is 
