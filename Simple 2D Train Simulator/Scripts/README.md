@@ -11,9 +11,12 @@ by running the Main_script.py.
 
 If you want to run the simulator without a tool that serves as a development environment for programming, 
 we suggest that you convert the python files into an executable file that will run the simulator. 
+
 The following links will help you with this:
+
 auto-py-to-exe:
 https://pypi.org/project/auto-py-to-exe/
+
 pyinstaller:
 https://pyinstaller.org/en/stable/usage.html
 https://www.youtube.com/watch?v=UZX5kH72Yx4&ab_channel=TechWithTim
